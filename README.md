@@ -1,10 +1,15 @@
  <div align=center>
 	 
   <img src="https://capsule-render.vercel.app/api?type=shark&color=FFDF6F&text=IoT%20Software%20Developer&fontAlignY=50&fontSize=40&fontColor=83B81A&height=150">
-  <br>
+ 
+  ### Hi There! 😄 I'm a IoT Software Developer
   <br>
 
+  ## 🥇 Experiences 🥇
   
+  <br>
+  
+  ## 📬️ Contacts 📬️
 <a href="mailto:TaehyeonEntus@gmail.com">
     <img
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:TaehyeonEntus@gmail.com"        
@@ -14,19 +19,17 @@
         src="http://img.shields.io/badge/-Instagram-F1007E?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/r1ax0gus/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
+  <br>
   
-  ### Hi There! 😄 I'm a IoT Software Developer
-  
-  ### 🔥Tech Skills🔥
+  ## 🔥Tech Skills🔥
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>				<!--C-->
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>			<!--C#-->
 <img src="https://img.shields.io/badge/C++-0599C4?style=flat-square&logo=C%2B%2B&logoColor=white"/>			<!--C++-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>			<!--Python-->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Openjdk&logoColor=white"/>			<!--Java-->
-</br>
-</br>
+<br>
 
-  ### 📚Interest📚
+  ## 📚Interests📚
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>		<!--JavaScript-->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>			<!--Node.js-->
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>			<!--Express-->
@@ -44,8 +47,16 @@
 <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>				<!--Pug-->
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>				<!--R-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>			<!--MySQL-->
+</br>
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/>			<!--Windows-->
-	
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>	
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<br>
+<br>
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaehyeonEntus&hide=contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehyeonEntus&layout=compact&theme=tokyonight)
  
