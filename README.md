@@ -4,7 +4,10 @@
   <br>
   <br>
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](TaehyeonEntus@gmail.com)
+<a href="mailto:quf8093@gmail.com">
+    <img
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"        
+	style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a href="https://instagram.com/r1ax0gus">
     <img 
         src="http://img.shields.io/badge/-Instagram-F1007E?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/r1ax0gus/"
