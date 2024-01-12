@@ -15,8 +15,8 @@
   ## 🔥 Tech Skills 🔥
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>				<!--C-->
 <img src="https://img.shields.io/badge/C++-0599C4?style=flat-square&logo=C%2B%2B&logoColor=white"/>			<!--C++-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>			<!--Python-->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Openjdk&logoColor=white"/>			<!--Java-->
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>	<!--Raspberry-->
 <br>
 
   ## 📚 Interests 📚
@@ -26,10 +26,10 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>			<!--Express-->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>			<!--Spring-->
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>	<!--SpringBoot-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>			<!--Python-->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>			<!--Linux-->
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>			<!--GitHub-->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>				<!--Git-->
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>	<!--Raspberry-->
 <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>			<!--Arduino-->
 <img src="https://img.shields.io/badge/Verilog%20HDL-AC162C?style=flat-square&logo=Vonage&logoColor=white"/>		<!--Verilog-->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>			<!--HTML-->
