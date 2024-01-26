@@ -14,13 +14,13 @@
   
   ## 🔥 Tech Skills 🔥
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>				<!--C-->
-<img src="https://img.shields.io/badge/C++-0599C4?style=flat-square&logo=C%2B%2B&logoColor=white"/>			<!--C++-->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Openjdk&logoColor=white"/>			<!--Java-->
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>	<!--Raspberry-->
 <br>
 
   ## 📚 Interests 📚
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>			<!--C#-->
+<img src="https://img.shields.io/badge/C++-0599C4?style=flat-square&logo=C%2B%2B&logoColor=white"/>			<!--C++-->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>		<!--JavaScript-->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>			<!--Node.js-->
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>			<!--Express-->
