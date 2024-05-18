@@ -2,7 +2,7 @@
 	 
   <img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&text=TaehyeonKim&fontAlignY=50&fontSize=80&fontColor=000000&height=150">
   
-  ### Hi There! 😄 I'm a IoT Software Developer
+  ### Hi There! 😄 I'm a Web Backend Developer
   
   ## ❤️ I Like ❤️
   💻 Programming, ⚽ Football, 🎥 Movie, 🎧 Music, 🎸 Bass, ☁️ Haru
@@ -15,18 +15,16 @@
   ## 🔥 Tech Skills 🔥
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>				<!--C-->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Openjdk&logoColor=white"/>			<!--Java-->
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>	<!--Raspberry-->
 <br>
 
-  ## 📚 Interests 📚
-<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>			<!--C#-->
-<img src="https://img.shields.io/badge/C++-0599C4?style=flat-square&logo=C%2B%2B&logoColor=white"/>			<!--C++-->
+  ## 📚 Have used 📚
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>		<!--JavaScript-->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>			<!--Node.js-->
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>			<!--Express-->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>			<!--Spring-->
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>	<!--SpringBoot-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>			<!--Python-->
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>	<!--Raspberry-->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>			<!--Linux-->
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>			<!--GitHub-->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>				<!--Git-->
@@ -34,8 +32,6 @@
 <img src="https://img.shields.io/badge/Verilog%20HDL-AC162C?style=flat-square&logo=Vonage&logoColor=white"/>		<!--Verilog-->
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>			<!--HTML-->
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>			<!--CSS-->
-<img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>				<!--Pug-->
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>				<!--R-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>			<!--MySQL-->
 <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white"/>			<!--Windows-->
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>	
