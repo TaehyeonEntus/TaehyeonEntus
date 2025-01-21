@@ -13,16 +13,15 @@
   <br>
   
   ## 🔥 Tech Skills 🔥
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>				<!--C-->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>			<!--Spring-->
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Openjdk&logoColor=white"/>			<!--Java-->
 <br>
 
   ## 📚 Have used 📚
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>		<!--JavaScript-->
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>				<!--C-->
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>			<!--Node.js-->
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>			<!--Express-->
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>			<!--Spring-->
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/>	<!--SpringBoot-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>			<!--Python-->
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>	<!--Raspberry-->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>			<!--Linux-->
