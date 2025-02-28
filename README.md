@@ -1,6 +1,4 @@
  <div align=center>
-	 
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeAuto&text=TaehyeonKim&fontAlignY=50&fontSize=80&fontColor=000000&height=150">
   
   ### Hi There! 😄 I'm a Web Backend Developer
   
