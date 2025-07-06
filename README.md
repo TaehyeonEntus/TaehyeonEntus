@@ -15,13 +15,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Openjdk&logoColor=white"/>			<!--Java-->
 <br>
 
-  ## 📚 Have used 📚
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>				<!--C-->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>			<!--Linux-->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>				<!--Git-->
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>			<!--MySQL-->
-<br>
-
   ## 📬️ Contacts 📬️
 <a href="mailto:TaehyeonEntus@gmail.com">
     <img
