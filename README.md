@@ -1,6 +1,6 @@
  <div align=center>
   
-  ### Hi! I'm a legal alien
+  ### Hi! I'm a legal alien  👽
   
   ## ❤️ I Like
   💻 Programming, ⚽ Football, 🎥 Movie, 🎧 Music, ☁️ Haru
@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>			<!--MySQL-->
 
 <br>
-
   ## 📚 Books
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaehyeonEntus&hide=contribs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaehyeonEntus&layout=compact&theme=tokyonight)
 
 </div>
